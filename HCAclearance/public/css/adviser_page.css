@@ -1,0 +1,14 @@
+#adviser_page_css_header{
+    font-family:  "monaco", monospace;
+    cursor: pointer;
+    color:rgb(0, 0, 0);
+    font-size:45px;
+}
+#MyClassIcon{
+    font-size:45px;
+    color:lightblue;
+    margin-top: 20px;
+    margin-left: 20px;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
